@@ -21,5 +21,7 @@ I'm a passionate software developer who loves to explore new technologies and bu
 ## 😄 Fun Facts
 - I'm a swimmer 🏊‍♂️, runner 🏃‍♂️, and can solve a Rubik's Cube in under 50 seconds. 🧩
 
+- ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitChauhan63390&show_icons=true&theme=radical)
+
 
 Feel free to explore my repositories and drop a message! Let's connect and create something awesome together. 🌟
