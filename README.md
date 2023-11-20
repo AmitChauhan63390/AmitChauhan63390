@@ -12,15 +12,16 @@ I'm a passionate software developer who loves to explore new technologies and bu
 - 📫 You can reach me via [email](mailto:amit63390@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amit-chauhan01/).
 
 ## 🚀 Skills
-- **Languages**: JavaScript, Python, Java
-- **Frontend**: React, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Express, Django
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools & Technologies**: Git, Docker, AWS, TensorFlow
+- **Languages**: JavaScript, Python, C++
+- **Frontend**: React, HTML5, CSS, Tailwindcss
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools & Technologies**: Git, Docker, AWS
 
 ## 😄 Fun Facts
-
 - I'm a swimmer 🏊‍♂️, runner 🏃‍♂️, and can solve a Rubik's Cube in under 50 seconds. 🧩
 
+## 🎉 Check this out!
+![Animated Badge](https://img.shields.io/badge/-Check%20this%20out!-blueviolet?style=for-the-badge&logo=github-actions&logoColor=white&link=https://github.com/AmitChauhan63390)
 
 Feel free to explore my repositories and drop a message! Let's connect and create something awesome together. 🌟
