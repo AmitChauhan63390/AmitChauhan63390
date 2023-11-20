@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmitChauhan63390)
 
+<a href="https://app.daily.dev/amitchauhan83"><img src="https://api.daily.dev/devcards/57c521c469a649bc8863936d97664fc6.png?r=7zu" width="400" alt="Amit Chauhan's Dev Card"/></a>
+
 I'm a passionate software developer who loves to explore new technologies and build innovative solutions. Here's a bit about me:
 
 ## 👨‍💻 About Me
