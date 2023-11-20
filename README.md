@@ -1,17 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Amit Chauhan! 👋
 
-![](https://komarev.com/ghpvc/?username=AmitChauhan63390)
+![Profile Views](https://komarev.com/ghpvc/?username=AmitChauhan63390)
 
-**AmitChauhan63390/AmitChauhan63390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer who loves to explore new technologies and build innovative solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on enhancing my skills in **Full-Stack Development** with a focus on **React** and **Node.js**.
+- 🌱 I’m always learning! Currently diving into **Machine Learning** and **Data Science**.
+- 👯 I’m open to collaborating on projects related to **web development** or **AI**.
+- 💬 Ask me about: Anything related to **JavaScript**, **Python**, or **Software Architecture**.
+- 📫 You can reach me via [email](mailto:amit63390@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amit-chauhan01/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Skills
+- **Languages**: JavaScript, Python, Java
+- **Frontend**: React, Vue.js, HTML5, CSS3
+- **Backend**: Node.js, Express, Django
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools & Technologies**: Git, Docker, AWS, TensorFlow
 
+## 😄 Fun Facts
+
+- I'm a swimmer 🏊‍♂️, runner 🏃‍♂️, and can solve a Rubik's Cube in under 50 seconds. 🧩
+
+
+Feel free to explore my repositories and drop a message! Let's connect and create something awesome together. 🌟
