@@ -21,7 +21,5 @@ I'm a passionate software developer who loves to explore new technologies and bu
 ## 😄 Fun Facts
 - I'm a swimmer 🏊‍♂️, runner 🏃‍♂️, and can solve a Rubik's Cube in under 50 seconds. 🧩
 
-## 🎉 Check this out!
-![Animated Badge](https://img.shields.io/badge/-Check%20this%20out!-blueviolet?style=for-the-badge&logo=github-actions&logoColor=white&link=[https://gleeful-muffin-806112.netlify.app/](https://gleeful-muffin-806112.netlify.app/))
 
 Feel free to explore my repositories and drop a message! Let's connect and create something awesome together. 🌟
